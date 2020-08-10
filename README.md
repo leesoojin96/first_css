@@ -1,2 +1,3 @@
 # first_css
-first_html에 css를 입힘
+css의 시작
+-> 생활코딩 수강
